@@ -1,5 +1,8 @@
 {
   "title" : "一本笔记",
   "author" : "EasyDC",
-  "plugins" : ["toggle-chapters"]
+  "plugins" : [
+    "toggle-chapters",
+    "copy-code-button"
+    ]
 }
