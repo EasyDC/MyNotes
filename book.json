@@ -3,7 +3,8 @@
   "author" : "EasyDC",
   "plugins" : [
     "toggle-chapters",
-    "copy-code-button"
+    "copy-code-button",
+    "hide-element"
     ],
   "pluginsConfig":{                  
     "hide-element": {
