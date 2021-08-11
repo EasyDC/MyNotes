@@ -1,3 +1,5 @@
-"scripts": {
-    "build": "gitbook build ./content ./docs"
+{
+    "scripts": {
+        "build": "gitbook build ./content ./docs"
+    }
 }
