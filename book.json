@@ -1,4 +1,6 @@
 {
+  "title" : "个人笔记",
+  "author" : "EasyDC",
   "plugins" : [
     "toggle-chapters",
     "copy-code-button"
