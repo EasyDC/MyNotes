@@ -41,6 +41,10 @@ module.exports = {
 
 ### 打包css文件
 
+```shell
+npm i css-loader style-loader -D
+```
+
 ```js
 const { resolve } = require("path");
 
