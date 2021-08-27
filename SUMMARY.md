@@ -11,4 +11,5 @@
   * [coding](leetcode/coding.md)
 * [webpack](webpack.md)
   * [webpack初体验](webpack/webpackchu-ti-yan.md)
+  * [webpack打包其他资源](webpack/webpackda-bao-qi-ta-zi-yuan.md)
 
